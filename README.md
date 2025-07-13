@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi there! 👋 My name is Joonas Rönkkö</h1>
-<h3 align="center">🎓 Final Year Student at Turku University of Applied science | Software engineering & Project management
+<h3 align="center">🎓 4th Year Student at Turku University of Applied science | Software engineering & Project management
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
