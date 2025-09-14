@@ -25,3 +25,6 @@
 
 Beginner Arduino LED Loop program: 
 https://github.com/Joonasmikael97/Led-loop
+Spotify song randomizer(from chosen genre)
+https://github.com/Joonasmikael97/Spotify-song-randomizer
+
