@@ -25,6 +25,10 @@
 
 Beginner Arduino LED Loop program: 
 https://github.com/Joonasmikael97/Led-loop
-Spotify song randomizer(from chosen genre)
+<br>
+Spotify song randomizer(from chosen genre) (Python)
 https://github.com/Joonasmikael97/Spotify-song-randomizer
+<br>
+Discord weather bot (Python/Flask)
+https://github.com/Joonasmikael97/Discord-Weather-Bot
 
